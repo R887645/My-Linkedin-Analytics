@@ -1,3 +1,5 @@
+
+
 # Situation
 As a Data Analyst passionate about storytelling, I decided to turn the spotlight inward, analyzing my own LinkedIn analytics over a two-year period.
 The goal was simple: to understand how my personal growth, audience, and engagement have evolved, and to see whether the data aligns with my journey as an analyst and creator.
@@ -33,6 +35,7 @@ So, I adapted the scope and focused on comparing February to July (2023 vs 2024)
 -Reach increase (27 → 2,613 members).
 -Follower demographics by city and profession.
 -Monthly activity patterns highlight June as the most active month for both years.
+***VIEW MY DASHBOARD [Project link](https://app.powerbi.com/view?r=eyJrIjoiMThhZmYyNDgtM2Q2NS00NDczLWFlMTktODE5ZTdhM2UxOTgzIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)
 
 # Result / Insights
 ## Here’s what I discovered from my own data:
