@@ -35,7 +35,8 @@ So, I adapted the scope and focused on comparing February to July (2023 vs 2024)
 -Reach increase (27 → 2,613 members).
 -Follower demographics by city and profession.
 -Monthly activity patterns highlight June as the most active month for both years.
-***VIEW MY DASHBOARD [Project link](https://app.powerbi.com/view?r=eyJrIjoiMThhZmYyNDgtM2Q2NS00NDczLWFlMTktODE5ZTdhM2UxOTgzIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)
+
+***[VIEW MY DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiMThhZmYyNDgtM2Q2NS00NDczLWFlMTktODE5ZTdhM2UxOTgzIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)
 
 # Result / Insights
 ## Here’s what I discovered from my own data:
