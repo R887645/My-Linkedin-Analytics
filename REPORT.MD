@@ -15,21 +15,21 @@ So, I adapted the scope and focused on comparing February to July (2023 vs 2024)
 4. Reflect on personal growth and tell a meaningful data-driven story even with limited data.
 
 # Action
-1. ## Data Collection & Cleaning
+## 1. Data Collection & Cleaning
 - Extracted LinkedIn Creator Analytics data covering impressions, reach, connections, and audience demographics across multiple years.
 - Cleaned and standardized 2,000+ rows of data in Excel, removing duplicates, 500 nulls, formatting timestamps, and aligning columns for year-over-year comparison.
 - Utilized Power Query to reshape and transform the dataset, improving clarity and analytical accuracy.
 - Imported the cleaned and structured data into Power BI, enabling dynamic visualization and trend insights.
 
-## Despite limited data export options, leveraged available metrics to deliver meaningful insights — demonstrating that effective analysis combines creativity with data completeness
+**Despite limited data export options, leveraged available metrics to deliver meaningful insights — demonstrating that effective analysis combines creativity with data completeness**
 
-2. ## Analysis Approach
+## 2. Analysis Approach
 -Compared engagement data (February–July) across two years.
 -Analyzed follower locations, occupations, and growth trends.
 -Calculated year-over-year changes in impressions, reach, and connections.
 -Identified the most active months and recurring engagement periods.
 
-3. ## Data Visualization
+## 3. Data Visualization
 -Built interactive visuals in Power BI showing:
 -Impressions growth (144 → 7,506).
 -Reach increase (27 → 2,613 members).
