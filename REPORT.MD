@@ -65,11 +65,9 @@ June was consistently the most active month for both years.
 Growth peaked around May–June last year and June this year, confirming recurring engagement patterns.
 
 ## Reflection
-
-**Breaking down my own data honestly made me feel like an analyst.**
-**Despite the limitation of missing data, I embraced the challenge, cleaning, comparing, and visualizing what I had.**
-**Seeing measurable progress in my impressions, reach, and audience profile made me realize how powerful data storytelling can be when applied to personal growth.**
-
+- Breaking down my own data honestly made me feel like an analyst.
+- Despite the limitation of missing data, I embraced the challenge, cleaning, comparing, and visualizing what I had.
+- Seeing measurable progress in my impressions, reach, and audience profile made me realize how powerful data storytelling can be when applied to personal growth.
 This project wasn’t just about numbers; it was about turning analytics into self-awareness.
 
 ## Next Steps
