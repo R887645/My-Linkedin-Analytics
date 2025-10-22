@@ -71,10 +71,10 @@ Growth peaked around May–June last year and June this year, confirming recurri
 This project wasn’t just about numbers; it was about turning analytics into self-awareness.
 
 ## Next Steps
-**Continue tracking analytics quarterly to measure long-term trends.**
-**Focus content in June, when engagement is historically highest.**
-**Tailor posts for my top audience segments for Data Analysts, Founders, and Frontend Developers.**
-**Experiment with A/B testing (post format, timing) to optimize engagement.**
+- Continue tracking analytics quarterly to measure long-term trends.
+- Focus content in June, when engagement is historically highest.
+- Tailor posts for my top audience segments for Data Analysts, Founders, and Frontend Developers.
+- Experiment with A/B testing (post format, timing) to optimize engagement.
 
 ## Tools Used
 **Excel** – Data cleaning and preparation
